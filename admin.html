@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Admin Dashboard</title>
+  </head>
+  <body>
+    <h2>Manage Responses</h2>
+    <textarea id="editor" rows="20" cols="80"></textarea>
+    <br />
+    <button onclick="saveChanges()">Save Changes</button>
+
+    <script>
+      async function loadData() {
+        const res = await fetch("/admin/data");
+        const data = await res.json();
+        document.getElementById("editor").value = JSON.stringify(data, null, 2);
+      }
+
+      async function saveChanges() {
+        const updated = JSON.parse(document.getElementById("editor").value);
+        await fetch("/admin/save", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(updated),
+        });
+        alert("Responses updated!");
+      }
+
+      loadData();
+    </script>
+  </body>
+</html>

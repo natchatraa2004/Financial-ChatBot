@@ -1,0 +1,236 @@
+{
+  "user1": [
+    {
+      "user": "Hello.",
+      "bot": "Hello! I'm here to help you with anything related to finance or insurance."
+    },
+    {
+      "user": "How to save money?",
+      "bot": "Sorry, I don't understand."
+    },
+    {
+      "user": "Get insurance code.",
+      "bot": "I can help you get a quote. What kind of insurance are you looking for\u00e2\u20ac\u201dcar, health, or home?"
+    },
+    {
+      "user": "Credit reward.",
+      "bot": "Sorry, I don't understand."
+    },
+    {
+      "user": "Track my claim",
+      "bot": "Sorry, I don't understand."
+    },
+    {
+      "user": "Check my balance.",
+      "bot": "You can check your balance by logging into your account or using our mobile app."
+    },
+    {
+      "user": "Score improvement.",
+      "bot": "A credit score is a number that shows how reliable you are with credit. Want tips to improve it?"
+    },
+    {
+      "user": "Check balance.",
+      "bot": "Sorry, I don't understand."
+    },
+    {
+      "user": "check balance",
+      "bot": "Sorry, I don't understand."
+    },
+    {
+      "user": "check my balance",
+      "bot": "You can check your balance by logging into your account or using our mobile app."
+    },
+    {
+      "user": "Hello.",
+      "bot": "Hello! How can I help you with your financial or insurance needs today?"
+    },
+    {
+      "user": "Insurance.",
+      "bot": "I can help you get a quote. What kind of insurance are you looking for\u00e2\u20ac\u201dcar, health, or home?"
+    },
+    {
+      "user": "Insurance quote.",
+      "bot": "I can help you get a quote. What kind of insurance are you looking for\u00e2\u20ac\u201dcar, health, or home?"
+    },
+    {
+      "user": "I need it for fraud.",
+      "bot": "If you suspect fraud, please contact our support immediately or freeze your account via the app."
+    },
+    {
+      "user": "How to save money?",
+      "bot": "Sorry, I don't understand."
+    },
+    {
+      "user": "Hello.",
+      "bot": "Hello! How can I help you with your financial or insurance needs today?"
+    },
+    {
+      "user": "What the hell? How to save money?",
+      "bot": "Sorry, I don't understand."
+    },
+    {
+      "user": "How do I save money?",
+      "bot": "Sorry, I don't understand."
+    },
+    {
+      "user": "How to save money?",
+      "bot": "Sorry, I don't understand."
+    },
+    {
+      "user": "Get insurance quote",
+      "bot": "I can help you get a quote. What kind of insurance are you looking for\u00e2\u20ac\u201dcar, health, or home?"
+    },
+    {
+      "user": "How to save money?",
+      "bot": "Sorry, I don't understand."
+    },
+    {
+      "user": "Tell me about loans",
+      "bot": "We offer personal, home, and auto loans. What kind of loan are you looking for?"
+    },
+    {
+      "user": "Tell me about loans.",
+      "bot": "We offer personal, home, and auto loans. What kind of loan are you looking for?"
+    },
+    {
+      "user": "Star Boy.",
+      "bot": "Sorry, I don't understand."
+    },
+    {
+      "user": "Hi.",
+      "bot": "Hello! How can I help you with your financial or insurance needs today?"
+    },
+    {
+      "user": "How to save money?",
+      "bot": "Sorry, I don't understand."
+    },
+    {
+      "user": "Check eligibility.",
+      "bot": "Loan eligibility depends on your income, credit score, and existing debts. Would you like to run a quick check?"
+    },
+    {
+      "user": "How to save money?",
+      "bot": "Sorry, I don't understand."
+    },
+    {
+      "user": "track my claim",
+      "bot": "Sorry, I don't understand."
+    },
+    {
+      "user": "Tell me about loans",
+      "bot": "We offer personal, home, and auto loans. What kind of loan are you looking for?"
+    },
+    {
+      "user": "Get insurance quote",
+      "bot": "I can help you get a quote. What kind of insurance are you looking for\u00e2\u20ac\u201dcar, health, or home?"
+    },
+    {
+      "user": "How to save money?",
+      "bot": "To save money, consider cutting unnecessary expenses, setting up automatic savings, and shopping smart. Want more tips?"
+    },
+    {
+      "user": "Track my claim",
+      "bot": "To track your claim, please provide your claim number, or you can check the status directly in your account."
+    },
+    {
+      "user": "i need to save money",
+      "bot": "To save money, consider cutting unnecessary expenses, setting up automatic savings, and shopping smart. Want more tips?"
+    },
+    {
+      "user": "yes i want suggestions",
+      "bot": "Sorry, I don't understand."
+    },
+    {
+      "user": "give some insurance quote",
+      "bot": "I can help you get a quote. What kind of insurance are you looking for\u00e2\u20ac\u201dcar, health, or home?"
+    },
+    {
+      "user": "health",
+      "bot": "Sorry, I don't understand."
+    },
+    {
+      "user": "health insurance",
+      "bot": "I can help you get a quote. What kind of insurance are you looking for\u00e2\u20ac\u201dcar, health, or home?"
+    },
+    {
+      "user": "hi",
+      "bot": "Hello! How can I assist you with your finances today?"
+    },
+    {
+      "user": "How to save money?",
+      "bot": "Sorry, I don't understand."
+    },
+    {
+      "user": "Do we have digital wallet?",
+      "bot": "What is digital wallet? Here's a brief overview and details: [Add detailed information about digital wallet here]."
+    },
+    {
+      "user": "hi",
+      "bot": "Sorry, I don't understand."
+    },
+    {
+      "user": "what is kyc process",
+      "bot": "What is kyc process? Here's a brief overview: [Add detailed information about kyc process here]."
+    },
+    {
+      "user": "How to save money?",
+      "bot": "Start by tracking expenses and setting a realistic budget. Automate savings monthly to build financial stability."
+    },
+    {
+      "user": "Get insurance quote",
+      "bot": "I can help you with an insurance quote. Please specify whether you're interested in car, health, or home insurance."
+    },
+    {
+      "user": "hi",
+      "bot": "Hello! I'm FinanceBot, here to help with your finance and insurance questions. How can I assist you today?"
+    },
+    {
+      "user": "Hi.",
+      "bot": "Hello! I'm FinanceBot, here to help with your finance and insurance questions. How can I assist you today?"
+    },
+    {
+      "user": "How to save money?",
+      "bot": "Start by tracking expenses and setting a realistic budget. Automate savings monthly to build financial stability."
+    },
+    {
+      "user": "How to save money?",
+      "bot": "To save money, consider cutting unnecessary expenses, setting up automatic savings, and shopping smart. Want more tips?"
+    },
+    {
+      "user": "Get insurance quote",
+      "bot": "I can help you get a quote. What kind of insurance are you looking for\u00e2\u20ac\u201dcar, health, or home?"
+    },
+    {
+      "user": "give me about personal loan",
+      "bot": "We offer personal, home, and auto loans. What kind of loan are you looking for?"
+    },
+    {
+      "user": "personal loans",
+      "bot": "We offer personal, home, and auto loans. What kind of loan are you looking for?"
+    },
+    {
+      "user": "How to save money?",
+      "bot": "To save money, consider cutting unnecessary expenses, setting up automatic savings, and shopping smart. Want more tips?"
+    },
+    {
+      "user": "Get insurance quote",
+      "bot": "I can help you get a quote. What kind of insurance are you looking for\u00e2\u20ac\u201dcar, health, or home?"
+    },
+    {
+      "user": "hi",
+      "bot": "Hello! How can I help you with your financial or insurance needs today?"
+    },
+    {
+      "user": "suggest me for the loans",
+      "bot": "We offer personal, home, and auto loans. What kind of loan are you looking for?"
+    },
+    {
+      "user": "is there fixed deposits",
+      "bot": "Our fixed deposit rates range from 5% to 7% per annum depending on tenure. Interested in opening one?"
+    },
+    {
+      "user": "suggest me for retirement loans",
+      "bot": "We offer personal, home, and auto loans. What kind of loan are you looking for?"
+    }
+  ]
+}

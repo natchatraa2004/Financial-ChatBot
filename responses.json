@@ -1,0 +1,144 @@
+[
+  {
+    "keywords": ["loan", "borrow", "apply for a loan", "get a loan"],
+    "response": "We offer personal, home, and auto loans. What kind of loan are you looking for?"
+  },
+  {
+    "keywords": ["loan eligibility", "check eligibility", "can I get a loan"],
+    "response": "Loan eligibility depends on your income, credit score, and existing debts. Would you like to run a quick check?"
+  },
+  {
+    "keywords": ["insurance", "insurance quote", "get insured", "coverage"],
+    "response": "I can help you get a quote. What kind of insurance are you looking for—car, health, or home?"
+  },
+  {
+    "keywords": ["file claim", "track claim", "claim status"],
+    "response": "You can file or track your claim through our app or website. Do you have your claim ID handy?"
+  },
+  {
+    "keywords": [
+      "budget",
+      "saving plan",
+      "expense tracking",
+      "plan my finances"
+    ],
+    "response": "A budget is a plan for your income and expenses. Would you like tips on setting up your savings goals?"
+  },
+  {
+    "keywords": ["credit score", "credit report", "score improvement"],
+    "response": "Your credit score shows how reliable you are with credit. Would you like advice on boosting it?"
+  },
+  {
+    "keywords": ["account balance", "check my balance", "my balance"],
+    "response": "You can check your balance instantly via our mobile app or online banking portal."
+  },
+  {
+    "keywords": ["transfer", "transfer money", "send money", "fund transfer"],
+    "response": "Money transfers are quick and secure via our app. Domestic or international transfer?"
+  },
+  {
+    "keywords": [
+      "statement",
+      "account statement",
+      "monthly statement",
+      "download statement"
+    ],
+    "response": "You can download your account statements from the 'Statements' section in your online banking."
+  },
+  {
+    "keywords": ["atm", "nearest atm", "atm locator", "find atm"],
+    "response": "Use our ATM locator in the mobile app to find the closest ATM near you."
+  },
+  {
+    "keywords": ["investment", "invest", "mutual funds", "stocks", "portfolio"],
+    "response": "We offer diversified investment options like mutual funds and ETFs. Would you like to start a SIP?"
+  },
+  {
+    "keywords": [
+      "fixed deposit",
+      "fd rates",
+      "fd interest",
+      "fixed deposit interest"
+    ],
+    "response": "Our fixed deposit rates range from 5% to 7% per annum depending on tenure. Interested in opening one?"
+  },
+  {
+    "keywords": ["savings account", "open savings account", "new account"],
+    "response": "You can open a savings account online in just a few minutes. Shall I share the link?"
+  },
+  {
+    "keywords": ["mortgage", "home loan", "apply mortgage", "house loan"],
+    "response": "Our home loans offer competitive interest rates. Would you like to check your eligibility?"
+  },
+  {
+    "keywords": [
+      "retirement planning",
+      "retirement",
+      "pension",
+      "retirement fund"
+    ],
+    "response": "Retirement planning helps secure your future. Want to explore our pension plans or IRAs?"
+  },
+  {
+    "keywords": ["emergency fund", "rainy day fund", "emergency savings"],
+    "response": "An emergency fund should cover 3–6 months of expenses. Need help setting one up?"
+  },
+  {
+    "keywords": ["tax", "income tax", "file tax", "tax filing", "tax help"],
+    "response": "We can help with tax planning and filing. Are you looking for tips on deductions or filing your return?"
+  },
+  {
+    "keywords": [
+      "fraud",
+      "report fraud",
+      "unauthorized",
+      "suspicious transaction"
+    ],
+    "response": "If you suspect fraud, please contact our support immediately or freeze your account via the app."
+  },
+  {
+    "keywords": ["support", "help", "customer service", "contact support"],
+    "response": "Our support team is available 24/7. Would you like to call, chat, or email our help desk?"
+  },
+  {
+    "keywords": [
+      "hello",
+      "hi",
+      "hey",
+      "good morning",
+      "good afternoon",
+      "good evening"
+    ],
+    "response": "Hello! How can I help you with your financial or insurance needs today?"
+  },
+  {
+    "keywords": ["thank you", "thanks", "appreciate it", "thank you so much"],
+    "response": "You're welcome! Feel free to ask me anything else."
+  },
+  {
+    "keywords": ["bye", "goodbye", "see you", "talk later"],
+    "response": "Goodbye! Reach out anytime you need financial advice."
+  },
+  {
+    "keywords": [],
+    "response": "Sorry, I didn't quite catch that. Could you please rephrase or choose one of the suggestions?"
+  },
+  {
+    "keywords": [
+      "save money",
+      "saving tips",
+      "how to save money",
+      "money-saving advice"
+    ],
+    "response": "To save money, consider cutting unnecessary expenses, setting up automatic savings, and shopping smart. Want more tips?"
+  },
+  {
+    "keywords": [
+      "track my claim",
+      "claim status",
+      "track my insurance claim",
+      "claim progress"
+    ],
+    "response": "To track your claim, please provide your claim number, or you can check the status directly in your account."
+  }
+]
